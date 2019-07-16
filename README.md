@@ -1,5 +1,7 @@
 # LinuxGuisetup
-The graphical user interface setup scripts for linux distros.
+The graphical user interface setup scripts for linux distros.  
+This is brench `wsl.ver`.  
+**(Windows Subsystem Linux Version)**
 
 ---
 
@@ -9,9 +11,7 @@ They are:
 - [x] Kali linux  
 - [x] Debian GNU/Linux  
 - [x] Ubuntu  
-- [ ] Arch  
-- [ ] Fedora  
-- [ ] CentOS
+- [ ] OpenSUSE
 
 #### Contribution
 You can contribute this project anytime.  
