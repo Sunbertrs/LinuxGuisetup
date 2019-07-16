@@ -1,5 +1,7 @@
 # LinuxGuisetup
-The graphical user interface setup scripts for linux distros.
+The graphical user interface setup scripts for linux distros.  
+This is branch `mini.ver`.  
+**(Mini linux Version)**.
 
 ---
 
