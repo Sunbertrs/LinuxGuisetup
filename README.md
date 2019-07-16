@@ -1,6 +1,6 @@
 # LinuxGuisetup
 The graphical user interface setup scripts for linux distros.  
-This is brench `wsl.ver`.  
+This is branch `wsl.ver`.  
 **(Windows Subsystem Linux Version)**
 
 ---
