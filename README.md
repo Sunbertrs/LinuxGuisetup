@@ -10,6 +10,8 @@ They are:
 - [x] Debian GNU/Linux  
 - [x] Ubuntu  
 - [ ] Arch  
+- [ ] Fedora  
+- [ ] CentOS
 
 #### Contribution
 You can contribute this project anytime.  
