@@ -6,10 +6,10 @@ The graphical user interface setup scripts for linux distros.
 #### Supported distros
 This repo includes 3 types of linux distros' gui setup scripts.  
 They are:  
-[x] Kali linux  
-[x] Debian GNU/Linux  
-[x] Ubuntu  
-[] Arch  
+- [x] Kali linux  
+- [x] Debian GNU/Linux  
+- [x] Ubuntu  
+- [ ] Arch  
 
 #### Contribution
 You can contribute this project anytime.  
