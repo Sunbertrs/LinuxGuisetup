@@ -21,11 +21,12 @@ You need to fork this repository and commit changes in your fork repository, the
 But make sure you are coding in the same style. For example, script commands need to get in the same line.
 
 #### Use
-You need to make sure the software pack `wget` is on ypur machine. Then use command:
+You need to make sure the software pack `wget` is on your machine. Then use command:
 ```bash
 wget https://github.com/sunbossrs/linuxguisetup/raw/master/*distro*-*de*.sh
 ```
-The `master` can change to the suitable for your machine.
+The `master` can change to the suitable for your machine.  
+The `*distro*` and `*de*` can change to your linux distro / the prefer desktop environment.
 
 ### License
 This project is under `GNU General Public License v3.0`.
