@@ -26,7 +26,7 @@ You need to make sure the software pack `wget` is on your machine. Then use comm
 wget https://github.com/sunbossrs/linuxguisetup/raw/master/*distro*-*de*.sh
 ```
 The `master` can change to the suitable for your machine.  
-The `*distro*` and `*de*` can change to your linux distro / the prefer desktop environment.
+The `*distro*` and `*de*` can change to your linux distro / the desktop environment that you prefer.
 
 ### License
 This project is under `GNU General Public License v3.0`.
