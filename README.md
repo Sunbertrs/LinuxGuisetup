@@ -1,7 +1,8 @@
 # LinuxGuisetup
 The graphical user interface setup scripts for linux distros.
-This branch is master.  
+This branch is `master`.  
 **(The things that need to download's is more.)**
+
 ---
 
 #### Supported distros
